@@ -36,3 +36,17 @@ My favorite articles and usefull resources.
 - [Painless Functional Specifications – Part 2: What’s a Spec?](https://www.joelonsoftware.com/2000/10/03/painless-functional-specifications-part-2-whats-a-spec/)
 - [Design docs - A design doc](https://medium.com/@cramforce/design-docs-a-design-doc-a152f4484c6b)
 - [The role, skills, and duties of a software architect](https://dev.to/iriskatastic/the-role-skills-and-duties-of-a-software-architect-413)
+
+## Event Driven & Event Sourced Architecture
+
+- [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
+- [Nordstrom: Event-Sourced Serverless Architectures](https://www.youtube.com/watch?v=O7PTtm_3Os4)
+- [Centrifuge: a reliable system for delivering billions of events per day](https://segment.com/blog/introducing-centrifuge/)
+- [Persistence vs. Durability in Messaging. Do you know the difference?](https://developers.redhat.com/blog/2016/08/10/persistence-vs-durability-in-messaging/)
+- [Some queuing theory: throughput, latency and bandwidth](https://www.rabbitmq.com/blog/2012/05/11/some-queuing-theory-throughput-latency-and-bandwidth/)
+- [Event-driven Microservices Using RabbitMQ](https://runnable.com/blog/event-driven-microservices-using-rabbitmq)
+- [How Synchronous REST Turns Microservices Back into Monoliths](https://thenewstack.io/synchronous-rest-turns-microservices-back-monoliths/)
+- [Rabbit.MQ + Node.js Notes](https://gist.github.com/arobson/8755566)
+- [Understanding When to use RabbitMQ or Apache Kafka](https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka)
+- [RabbitMQ Hits One Million Messages Per Second on Google Compute Engine](https://content.pivotal.io/blog/rabbitmq-hits-one-million-messages-per-second-on-google-compute-engine)
+- []()
