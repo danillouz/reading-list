@@ -93,3 +93,14 @@ My favorite articles and usefull resources.
 - [Graph Databases for Beginners: ACID vs. BASE Explained](https://neo4j.com/blog/acid-vs-base-consistency-models-explained/)
 - [Introduction to MongoDB Indexing](https://www.stackchief.com/blog/Introduction%20to%20MongoDB%20Indexing)
 - [A Node.js Perspective on MongoDB 4.0: Transactions](http://thecodebarbarian.com/a-node-js-perspective-on-mongodb-4-transactions.html)
+
+## Search
+
+- [Building a Full-Text Search App Using Docker and Elasticsearch](https://blog.patricktriest.com/text-search-docker-elasticsearch/)
+- [Search at Slack](https://slack.engineering/search-at-slack-431f8c80619e)
+- [Search Engine Optimization en vogue](https://hackernoon.com/search-engine-optimization-en-vogue-2b390bd9bc2f)
+- [The Architecture of Algolia’s Distributed Search Network](http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html)
+- [Title Search: when relevancy is only skin deep](https://opensourceconnections.com/blog/2014/12/08/title-search-when-relevancy-is-only-skin-deep/)
+- [Comparing Algolia and Elasticsearch For Consumer-Grade Search Part 1: End-to-end Latency](https://blog.algolia.com/algolia-v-elasticsearch-latency/)
+- [How Algolia tackled the relevance problem of search engines](https://blog.algolia.com/how-algolia-tackled-the-relevance-problem-of-search-engines/)
+- [A Hierarchy of Search](https://hackernoon.com/a-hierarchy-of-search-eed08acbd6bf)
