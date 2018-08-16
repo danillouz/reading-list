@@ -195,3 +195,10 @@ My favorite articles and usefull resources.
 - [The Hidden Forces Behind Toutiao: China’s Content King](https://blog.ycombinator.com/the-hidden-forces-behind-toutiao-chinas-content-king/)
 - [The continuous flow of weekly planning](https://www.intercom.com/blog/continuous-flow-weekly-planning/)
 - [How Do You Measure Leadership?](https://blog.ycombinator.com/how-do-you-measure-leadership/)
+
+## Interviewing
+
+- [Top 10 System Design Interview Questions for Software Engineers](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444)
+- [Do I Want To Work In This Company, or What Questions To Ask On An Interview](https://dev.to/ice_lenor/do-i-want-to-work-in-this-company-or-what-questions-to-ask-on-an-interview-7po)
+- [Ten Rules for Negotiating a Job Offer](https://medium.freecodecamp.org/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6)
+- [How to Talk About Yourself in an Interview](https://stackoverflow.blog/2017/04/27/how-to-talk-about-yourself-in-an-interview/)
