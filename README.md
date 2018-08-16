@@ -63,3 +63,18 @@ My favorite articles and usefull resources.
 - [Micro-monolith anti-pattern](http://chi.pl/2017/01/30/Micro-monolith-Anti-pattern.html)
 - [Six Challenges Every Organization Will Face Implementing Microservices](https://thenewstack.io/microservices-standardization-moving-monolith-microservices/)
 - [Making microservices more resilient with circuit breaking](https://blog.buoyant.io/2017/01/13/making-microservices-more-resilient-with-circuit-breaking/)
+
+## CS & Engineering
+
+- [BaseCS](https://medium.com/basecs)
+- [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+- [SOLID Principles Around You](https://medium.com/@trekhleb/solid-principles-around-you-6db2f0e12139)
+- [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](http://kunststube.net/encoding/)
+- [Unicode, UTF8 & Character Sets: The Ultimate Guide](https://www.smashingmagazine.com/2012/06/all-about-unicode-utf8-character-sets/)
+- [Hewitt, Meijer and Szyperski: The Actor Model (everything you wanted to know...)](https://www.youtube.com/watch?v=7erJ1DV_Tlo)
+- [Bit manipulation](https://www.youtube.com/watch?v=7jkIUgLC29I)
+- [An Introduction to Hashing in the Era of Machine Learning](https://blog.bradfieldcs.com/an-introduction-to-hashing-in-the-era-of-machine-learning-6039394549b0)
+- [The Origins of Opera and the Future of Programming](https://the-composition.com/the-origins-of-opera-and-the-future-of-programming-bcdaf8fbe960)
+- [Code Complexity is a Design Problem](https://builttoadapt.io/code-complexity-is-a-design-problem-e53e4229b5de)
+- [Does your solution solve the right problem?](https://www.intercom.com/blog/does-your-solution-solve-the-right-problem/)
+- [Technical Decision Making](https://medium.com/@copyconstruct/technical-decision-making-9b2817c18da4)
