@@ -50,3 +50,16 @@ My favorite articles and usefull resources.
 - [Understanding When to use RabbitMQ or Apache Kafka](https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka)
 - [RabbitMQ Hits One Million Messages Per Second on Google Compute Engine](https://content.pivotal.io/blog/rabbitmq-hits-one-million-messages-per-second-on-google-compute-engine)
 - []()
+
+## Microservices
+
+- [The Data Dichotomy: Rethinking the Way We Treat Data and Services](https://www.confluent.io/blog/data-dichotomy-rethinking-the-way-we-treat-data-and-services/)
+- [Microservices Architecture — It Takes A Platform — Eureka!](https://codeburst.io/microservices-architecture-it-takes-a-platform-eureka-97f61af90d5c)
+- [Learning these 5 microservice patterns will make you a better engineer](https://hackernoon.com/learning-these-5-microservice-patterns-will-make-you-a-better-engineer-52fc779c470a)
+- [Microservice Principles: Smart Endpoints and Dumb Pipes](https://medium.com/@nathankpeck/microservice-principles-smart-endpoints-and-dumb-pipes-5691d410700f)
+- [Microservices Distributed Tracing with Node.js and OpenTracing](https://blog.risingstack.com/distributed-tracing-opentracing-node-js/)
+- [The evolution of scalable microservices](https://www.oreilly.com/ideas/the-evolution-of-scalable-microservices)
+- [Developing and Testing Microservices with Docker](https://mherman.org/blog/2017/04/18/developing-and-testing-microservices-with-docker/)
+- [Micro-monolith anti-pattern](http://chi.pl/2017/01/30/Micro-monolith-Anti-pattern.html)
+- [Six Challenges Every Organization Will Face Implementing Microservices](https://thenewstack.io/microservices-standardization-moving-monolith-microservices/)
+- [Making microservices more resilient with circuit breaking](https://blog.buoyant.io/2017/01/13/making-microservices-more-resilient-with-circuit-breaking/)
