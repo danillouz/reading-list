@@ -86,3 +86,10 @@ My favorite articles and usefull resources.
 - [How to Design a Scalable Rate Limiting Algorithm](https://konghq.com/blog/how-to-design-a-scalable-rate-limiting-algorithm/)
 - [What are Bloom filters?](https://blog.medium.com/what-are-bloom-filters-1ec2a50c68ff)
 - [Demystifying the PageRank Algorithm](https://dev.to/sishaarrao/demystifying-the-pagerank-algorithm)
+
+## Databases
+
+- [How Sharding Works](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6)
+- [Graph Databases for Beginners: ACID vs. BASE Explained](https://neo4j.com/blog/acid-vs-base-consistency-models-explained/)
+- [Introduction to MongoDB Indexing](https://www.stackchief.com/blog/Introduction%20to%20MongoDB%20Indexing)
+- [A Node.js Perspective on MongoDB 4.0: Transactions](http://thecodebarbarian.com/a-node-js-perspective-on-mongodb-4-transactions.html)
