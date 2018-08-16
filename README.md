@@ -49,7 +49,6 @@ My favorite articles and usefull resources.
 - [Rabbit.MQ + Node.js Notes](https://gist.github.com/arobson/8755566)
 - [Understanding When to use RabbitMQ or Apache Kafka](https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka)
 - [RabbitMQ Hits One Million Messages Per Second on Google Compute Engine](https://content.pivotal.io/blog/rabbitmq-hits-one-million-messages-per-second-on-google-compute-engine)
-- []()
 
 ## Microservices
 
