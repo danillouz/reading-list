@@ -157,3 +157,15 @@ My favorite articles and usefull resources.
 - [Kubernetes deployment strategies](https://container-solutions.com/kubernetes-deployment-strategies/)
 - [Kubernetes Canary deployments 🐤 for mere mortals](https://blog.dockbit.com/kubernetes-canary-deployments-for-mere-mortals-6696910a52b2)
 - [Kubernetes graceful shutdown example](https://github.com/RisingStack/kubernetes-graceful-shutdown-example)
+
+## Service Mesh
+
+- [Envoy](https://medium.com/@copyconstruct/envoy-953c340c2dca)
+- [Interactive Learning Portal](https://learn.openshift.com/servicemesh)
+- [The universal data plane API](https://medium.com/@copyconstruct/envoy-953c340c2dca)
+- [Service mesh data plane vs. control plane](https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc)
+- [Traffic Shadowing With Istio: Reducing the Risk of Code Release](http://blog.christianposta.com/microservices/traffic-shadowing-with-istio-reduce-the-risk-of-code-release/)
+- [Simplifying Microservices with Istio in Google Kubernetes Engine — Part I](https://medium.com/google-cloud/simplifying-microservices-with-istio-in-google-kubernetes-engine-part-i-849555f922b8)
+- [Simplifying Microservices with Istio in Google Kubernetes Engine — Part II](https://medium.com/google-cloud/simplifying-microservices-with-istio-in-google-kubernetes-engine-part-ii-7461b1833089)
+- [Simplifying Microservices with Istio in Google Kubernetes Engine — Part III](https://medium.com/google-cloud/simplifying-microservices-with-istio-in-google-kubernetes-engine-part-iii-6b62876d0a7d)
+- [KubeCon 2017 Demo — Istio and Brigade CI/CD](https://medium.com/@chzbrgr71/kubecon-2017-demo-istio-and-brigade-ci-cd-9db5ef15a942)
