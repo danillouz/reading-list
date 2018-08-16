@@ -169,3 +169,10 @@ My favorite articles and usefull resources.
 - [Simplifying Microservices with Istio in Google Kubernetes Engine — Part II](https://medium.com/google-cloud/simplifying-microservices-with-istio-in-google-kubernetes-engine-part-ii-7461b1833089)
 - [Simplifying Microservices with Istio in Google Kubernetes Engine — Part III](https://medium.com/google-cloud/simplifying-microservices-with-istio-in-google-kubernetes-engine-part-iii-6b62876d0a7d)
 - [KubeCon 2017 Demo — Istio and Brigade CI/CD](https://medium.com/@chzbrgr71/kubecon-2017-demo-istio-and-brigade-ci-cd-9db5ef15a942)
+
+## Git
+
+- [Git from the inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out)
+- [Don't Amend, Fix](https://dev.to/tmr232/dont-amend-fix)
+- [Useful tricks you might not know about Git stash](https://dev.to/srebalaji/useful-tricks-you-might-not-know-about-git-stash-117e)
+- [A quick look at the git object store](https://dev.to/imjacobclark/a-quick-look-at-the-git-object-store-290j)
