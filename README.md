@@ -176,3 +176,22 @@ My favorite articles and usefull resources.
 - [Don't Amend, Fix](https://dev.to/tmr232/dont-amend-fix)
 - [Useful tricks you might not know about Git stash](https://dev.to/srebalaji/useful-tricks-you-might-not-know-about-git-stash-117e)
 - [A quick look at the git object store](https://dev.to/imjacobclark/a-quick-look-at-the-git-object-store-290j)
+
+## Product, Culture & Leadership
+
+- [On being lost](https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec)
+- [You’re Iterating to Nowhere](https://blog.realkinetic.com/youre-iterating-to-nowhere-d685c9ea8ba7)
+- [Start your marketing with why: Getting your story right](https://www.intercom.com/blog/start-with-why-getting-your-story-right/)
+- [Beyond “Outcomes Over Outputs”](https://hackernoon.com/beyond-outcomes-over-outputs-6b2677044214)
+- [You Need to Manage Digital Projects for Outcomes, Not Outputs](https://hbr.org/2017/02/you-need-to-manage-digital-projects-for-outcomes-not-outputs)
+- [How To Build A Product Roadmap Everyone Understands](https://www.prodpad.com/blog/how-to-build-a-product-roadmap-everyone-understands/)
+- [How To Sell The Problem Before Selling The Solution](https://medium.com/swlh/how-to-perfectly-capture-your-customers-need-c924e3209484)
+- [12 Signs You’re Working in a Feature Factory](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2)
+- [Keep Features Off Your Roadmap](https://hackernoon.com/keep-features-off-your-roadmap-b14543340881)
+- [WHAT MAKES A GREAT PRODUCT MANAGER](https://hackernoon.com/what-makes-a-great-product-manager-3c1d03b90356)
+- [Questions to ask when hiring a product designer for a startup](https://medium.freecodecamp.org/questions-to-ask-when-hiring-a-product-designer-for-a-startup-da58a3ca0a71)
+- [Originality is Overrated: The Case for Copying Business Ideas](https://clearfounder.com/originality-is-overrated-the-case-for-copying-business-ideas/)
+- [The ultimate guide to defining, writing, and implementing OKRs](https://hackernoon.com/the-ultimate-guide-to-defining-writing-and-implementing-okrs-3b2671e7b01a)
+- [The Hidden Forces Behind Toutiao: China’s Content King](https://blog.ycombinator.com/the-hidden-forces-behind-toutiao-chinas-content-king/)
+- [The continuous flow of weekly planning](https://www.intercom.com/blog/continuous-flow-weekly-planning/)
+- [How Do You Measure Leadership?](https://blog.ycombinator.com/how-do-you-measure-leadership/)
