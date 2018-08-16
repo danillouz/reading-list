@@ -218,3 +218,16 @@ My favorite articles and usefull resources.
 - [Mostly adequate guide to functional programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
 - [The Best Explanation of JavaScript Reactivity](https://medium.com/vue-mastery/the-best-explanation-of-javascript-reactivity-fea6112dd80d)
 - [RxJS Observable interop with Promises and Async-Await](https://medium.com/@benlesh/rxjs-observable-interop-with-promises-and-async-await-bebb05306875)
+
+## GraphQL
+
+- [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/?utm_medium=email&utm_source=reactnl&v1=)
+- [Life of a GraphQL Query — Lexing/Parsing](https://medium.com/@cjoudrey/life-of-a-graphql-query-lexing-parsing-ca7c5045fad8)
+- [Tutorial: GraphQL subscriptions with Apollo Client](https://blog.apollographql.com/tutorial-graphql-subscriptions-client-side-40e185e4be76)
+- [Creating Query Components with Apollo](http://engineering.khanacademy.org/posts/creating-query-components-with-apollo.htm)
+- [Building a Github Client with React Apollo](https://www.graphql.college/building-a-github-client-with-react-apollo/)
+- [GraphQL Server Basics: GraphQL Schemas, TypeDefs & Resolvers Explained](https://www.prisma.io/blog/graphql-server-basics-the-schema-ac5e2950214e/)
+- [Loading Patterns in Apollo Client](https://www.okgrow.com/posts/loading-patterns-in-apollo-client)
+- [4 simple ways to call a GraphQL API](https://blog.apollographql.com/4-simple-ways-to-call-a-graphql-api-a6807bcdb355)
+- [GraphQL schema stitching](https://blog.apollographql.com/graphql-schema-stitching-8af23354ac37)
+- [Tutorial: How to build a GraphQL server](https://blog.apollographql.com/tutorial-building-a-graphql-server-cddaa023c035)
