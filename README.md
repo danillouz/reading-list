@@ -304,3 +304,7 @@ My favorite articles and usefull resources.
 - [The Go scheduler](https://morsmachine.dk/go-scheduler)
 - [Scheduling In Go - Part I](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html)
 - [Scheduler Tracing In Go](https://www.ardanlabs.com/blog/2015/02/scheduler-tracing-in-go.html)
+
+## Haskell
+
+- [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
