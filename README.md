@@ -25,3 +25,14 @@ My favorite articles and usefull resources.
 - [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
 - [There is no now](https://queue.acm.org/detail.cfm?id=2745385)
 - [You Cannot Have Exactly-Once Delivery](https://queue.acm.org/detail.cfm?id=2745385)
+
+## Architecture & Design
+
+- [Simple, correct, fast: in that order](https://drewdevault.com/2018/07/09/Simple-correct-fast.html)
+- [CQRS](https://blog.risingstack.com/cqrs-explained-node-js-at-scale/)
+- [Creating Secure Password Resets With JSON Web Tokens](https://www.smashingmagazine.com/2017/11/safe-password-resets-with-json-web-tokens/)
+- [What do software architects at Khan Academy do?](http://engineering.khanacademy.org/posts/architects-at-khan.htm)
+- [Painless Functional Specifications – Part 1: Why Bother?](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/)
+- [Painless Functional Specifications – Part 2: What’s a Spec?](https://www.joelonsoftware.com/2000/10/03/painless-functional-specifications-part-2-whats-a-spec/)
+- [Design docs - A design doc](https://medium.com/@cramforce/design-docs-a-design-doc-a152f4484c6b)
+- [The role, skills, and duties of a software architect](https://dev.to/iriskatastic/the-role-skills-and-duties-of-a-software-architect-413)
