@@ -78,3 +78,11 @@ My favorite articles and usefull resources.
 - [Code Complexity is a Design Problem](https://builttoadapt.io/code-complexity-is-a-design-problem-e53e4229b5de)
 - [Does your solution solve the right problem?](https://www.intercom.com/blog/does-your-solution-solve-the-right-problem/)
 - [Technical Decision Making](https://medium.com/@copyconstruct/technical-decision-making-9b2817c18da4)
+
+## Algorithms
+
+- [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
+- [Know Thy Complexities!](http://bigocheatsheet.com/)
+- [How to Design a Scalable Rate Limiting Algorithm](https://konghq.com/blog/how-to-design-a-scalable-rate-limiting-algorithm/)
+- [What are Bloom filters?](https://blog.medium.com/what-are-bloom-filters-1ec2a50c68ff)
+- [Demystifying the PageRank Algorithm](https://dev.to/sishaarrao/demystifying-the-pagerank-algorithm)
