@@ -202,3 +202,19 @@ My favorite articles and usefull resources.
 - [Do I Want To Work In This Company, or What Questions To Ask On An Interview](https://dev.to/ice_lenor/do-i-want-to-work-in-this-company-or-what-questions-to-ask-on-an-interview-7po)
 - [Ten Rules for Negotiating a Job Offer](https://medium.freecodecamp.org/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6)
 - [How to Talk About Yourself in an Interview](https://stackoverflow.blog/2017/04/27/how-to-talk-about-yourself-in-an-interview/)
+
+## Reactive & Functional Programming
+
+- [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+- [Real-Time stream processing with Reactive-Extensions](https://www.youtube.com/watch?v=iNlGvy7l24w)
+- [RxJS Marbles](http://rxmarbles.com/)
+- [Netflix JavaScript Talks - Real-time Insights powered by Reactive Programming](https://www.youtube.com/watch?v=uODxUJ5Jwis)
+- [An Animated Intro to RxJS](https://css-tricks.com/animated-intro-rxjs/)
+- [Reactive programming in React — An Inside look on Observables](https://medium.com/@shashank.007sharma/reactive-programming-in-react-an-inside-look-on-observables-3e740b1f3815)
+- [Awesome FP JS](https://github.com/stoeffel/awesome-fp-js)
+- [Learn RxJS in 60 Minutes for Beginners](https://www.youtube.com/watch?v=PhggNGsSQyg)
+- [How to think reactively and animate moving objects using RxJs](https://medium.freecodecamp.org/thinking-reactively-how-to-animate-with-movement-objects-using-rxjs-692518b6f2ac)
+- [Learn RxJS and Reactive Programming principles](http://reactive.how/)
+- [Mostly adequate guide to functional programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
+- [The Best Explanation of JavaScript Reactivity](https://medium.com/vue-mastery/the-best-explanation-of-javascript-reactivity-fea6112dd80d)
+- [RxJS Observable interop with Promises and Async-Await](https://medium.com/@benlesh/rxjs-observable-interop-with-promises-and-async-await-bebb05306875)
