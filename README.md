@@ -13,6 +13,8 @@ My favorite articles and usefull resources.
 - [Everything you need to know about cold starts in AWS Lambda](https://hackernoon.com/cold-starts-in-aws-lambda-f9e3432adbf0)
 - [Efficient APIs with GraphQL and Serverless](https://serverless.com/blog/efficient-apis-graphql-serverless/)
 - [Cloud-native architecture with serverless microservices — the Smart Parking story](https://cloudplatform.googleblog.com/2018/04/Cloud-native-architecture-with-serverless-microservices-the-Smart-Parking-story.html)
+- [Using Protocol Buffers with API Gateway and AWS Lambda](https://hackernoon.com/using-protocol-buffers-with-api-gateway-and-aws-lambda-22c3804f3e76)
+- [Uncovering the magic: How serverless platforms really work!](https://medium.com/openwhisk/uncovering-the-magic-how-serverless-platforms-really-work-3cb127b05f71)
 
 ## Distributed Systems
 
