@@ -94,6 +94,7 @@ My favorite articles and usefull resources.
 - [Graph Databases for Beginners: ACID vs. BASE Explained](https://neo4j.com/blog/acid-vs-base-consistency-models-explained/)
 - [Introduction to MongoDB Indexing](https://www.stackchief.com/blog/Introduction%20to%20MongoDB%20Indexing)
 - [A Node.js Perspective on MongoDB 4.0: Transactions](http://thecodebarbarian.com/a-node-js-perspective-on-mongodb-4-transactions.html)
+- [DynamoDB adaptive capacity](https://aws.amazon.com/blogs/database/how-amazon-dynamodb-adaptive-capacity-accommodates-uneven-data-access-patterns-or-why-what-you-know-about-dynamodb-might-be-outdated/)
 
 ## Search
 
@@ -260,6 +261,7 @@ My favorite articles and usefull resources.
 - [How to build your own Module bundler from scratch](https://dev.to/saigowthamr/how-to-build-your-own-module-bundler-from-scratch-blk)
 - [The Rise Of The State Machines](https://www.smashingmagazine.com/2018/01/rise-state-machines/)
 - [Developing Real-Time Web Applications with Server-Sent Events](https://auth0.com/blog/developing-real-time-web-applications-with-server-sent-events/)
+- [Creating a Chrome extension in 2018](https://checklyhq.com/blog/2018/08/creating-a-chrome-extension-in-2018-the-good-the-bad-and-the-meh/)
 
 ## Go
 
