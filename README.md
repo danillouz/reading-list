@@ -15,6 +15,12 @@ My favorite articles and usefull resources.
 - [Cloud-native architecture with serverless microservices — the Smart Parking story](https://cloudplatform.googleblog.com/2018/04/Cloud-native-architecture-with-serverless-microservices-the-Smart-Parking-story.html)
 - [Using Protocol Buffers with API Gateway and AWS Lambda](https://hackernoon.com/using-protocol-buffers-with-api-gateway-and-aws-lambda-22c3804f3e76)
 - [Uncovering the magic: How serverless platforms really work!](https://medium.com/openwhisk/uncovering-the-magic-how-serverless-platforms-really-work-3cb127b05f71)
+- [Auto-scaling Kinesis streams with AWS Lambda](https://read.acloud.guru/auto-scaling-kinesis-streams-with-aws-lambda-299f9a0512da)
+- [How to fan-out Amazon Kinesis Streams?](https://www.linkedin.com/pulse/how-fan-out-amazon-kinesis-streams-alex-casalboni/)
+- [3 Pro Tips for Developers using AWS Lambda with Kinesis Streams](https://read.acloud.guru/aws-lambda-3-pro-tips-for-working-with-kinesis-streams-8f6182a03113)
+- [Serverless vs Containers](https://logz.io/blog/serverless-vs-containers/)
+- [Robust Serverless Application Design with AWS Lambda Dead Letter Queues](https://aws.amazon.com/blogs/compute/robust-serverless-application-design-with-aws-lambda-dlq/)
+- [How to retry failed Kinesis events using AWS Lambda dead letter queues for SNS](https://read.acloud.guru/use-sns-to-retry-failed-kinesis-events-36e978782f05)
 
 ## Distributed Systems
 
@@ -51,6 +57,7 @@ My favorite articles and usefull resources.
 - [Rabbit.MQ + Node.js Notes](https://gist.github.com/arobson/8755566)
 - [Understanding When to use RabbitMQ or Apache Kafka](https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka)
 - [RabbitMQ Hits One Million Messages Per Second on Google Compute Engine](https://content.pivotal.io/blog/rabbitmq-hits-one-million-messages-per-second-on-google-compute-engine)
+- [Stream processing, Event sourcing, Reactive, CEP… and making sense of it all](https://www.confluent.io/blog/making-sense-of-stream-processing/)
 
 ## Microservices
 
@@ -79,6 +86,7 @@ My favorite articles and usefull resources.
 - [Code Complexity is a Design Problem](https://builttoadapt.io/code-complexity-is-a-design-problem-e53e4229b5de)
 - [Does your solution solve the right problem?](https://www.intercom.com/blog/does-your-solution-solve-the-right-problem/)
 - [Technical Decision Making](https://medium.com/@copyconstruct/technical-decision-making-9b2817c18da4)
+- [Grids and Graphs](https://www.redblobgames.com/pathfinding/grids/graphs.html)
 
 ## Algorithms
 
@@ -87,6 +95,7 @@ My favorite articles and usefull resources.
 - [How to Design a Scalable Rate Limiting Algorithm](https://konghq.com/blog/how-to-design-a-scalable-rate-limiting-algorithm/)
 - [What are Bloom filters?](https://blog.medium.com/what-are-bloom-filters-1ec2a50c68ff)
 - [Demystifying the PageRank Algorithm](https://dev.to/sishaarrao/demystifying-the-pagerank-algorithm)
+- [Introduction to A\*](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
 
 ## Databases
 
@@ -106,6 +115,7 @@ My favorite articles and usefull resources.
 - [Comparing Algolia and Elasticsearch For Consumer-Grade Search Part 1: End-to-end Latency](https://blog.algolia.com/algolia-v-elasticsearch-latency/)
 - [How Algolia tackled the relevance problem of search engines](https://blog.algolia.com/how-algolia-tackled-the-relevance-problem-of-search-engines/)
 - [A Hierarchy of Search](https://hackernoon.com/a-hierarchy-of-search-eed08acbd6bf)
+- [Some things you should know before using Amazon’s Elasticsearch Service on AWS](https://read.acloud.guru/things-you-should-know-before-using-awss-elasticsearch-service-7cd70c9afb4f)
 
 ## DevOps
 
