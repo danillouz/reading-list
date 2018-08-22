@@ -47,6 +47,8 @@ My favorite articles and usefull resources.
 
 ## Event Driven & Event Sourced Architecture
 
+- [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
+- [CQRS](https://martinfowler.com/bliki/CQRS.html)
 - [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
 - [Nordstrom: Event-Sourced Serverless Architectures](https://www.youtube.com/watch?v=O7PTtm_3Os4)
 - [Centrifuge: a reliable system for delivering billions of events per day](https://segment.com/blog/introducing-centrifuge/)
@@ -58,6 +60,7 @@ My favorite articles and usefull resources.
 - [Understanding When to use RabbitMQ or Apache Kafka](https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka)
 - [RabbitMQ Hits One Million Messages Per Second on Google Compute Engine](https://content.pivotal.io/blog/rabbitmq-hits-one-million-messages-per-second-on-google-compute-engine)
 - [Stream processing, Event sourcing, Reactive, CEP… and making sense of it all](https://www.confluent.io/blog/making-sense-of-stream-processing/)
+- [What they don’t tell you about event sourcing](https://medium.com/@hugo.oliveira.rocha/what-they-dont-tell-you-about-event-sourcing-6afc23c69e9a)
 
 ## Microservices
 
