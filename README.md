@@ -210,6 +210,7 @@ My favorite articles and usefull resources.
 - [The Hidden Forces Behind Toutiao: China’s Content King](https://blog.ycombinator.com/the-hidden-forces-behind-toutiao-chinas-content-king/)
 - [The continuous flow of weekly planning](https://www.intercom.com/blog/continuous-flow-weekly-planning/)
 - [How Do You Measure Leadership?](https://blog.ycombinator.com/how-do-you-measure-leadership/)
+- [8 Mistakes we made in our Company’s First 8 Years](https://hackernoon.com/8-mistakes-we-made-in-our-companys-first-8-years-3d38422333b?token=K7CIiNTNmZUkOP-9)
 
 ## Interviewing
 
