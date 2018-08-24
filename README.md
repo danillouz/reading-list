@@ -21,6 +21,7 @@ My favorite articles and usefull resources.
 - [Serverless vs Containers](https://logz.io/blog/serverless-vs-containers/)
 - [Robust Serverless Application Design with AWS Lambda Dead Letter Queues](https://aws.amazon.com/blogs/compute/robust-serverless-application-design-with-aws-lambda-dlq/)
 - [How to retry failed Kinesis events using AWS Lambda dead letter queues for SNS](https://read.acloud.guru/use-sns-to-retry-failed-kinesis-events-36e978782f05)
+- [Become a Serverless Black Belt](https://www.youtube.com/watch?v=oQFORsso2go)
 
 ## Distributed Systems
 
@@ -211,6 +212,7 @@ My favorite articles and usefull resources.
 - [The continuous flow of weekly planning](https://www.intercom.com/blog/continuous-flow-weekly-planning/)
 - [How Do You Measure Leadership?](https://blog.ycombinator.com/how-do-you-measure-leadership/)
 - [8 Mistakes we made in our Company’s First 8 Years](https://hackernoon.com/8-mistakes-we-made-in-our-companys-first-8-years-3d38422333b?token=K7CIiNTNmZUkOP-9)
+- [Customer Success. Unit Economics. Then Growth. What I Like About Mark Roberge's Framework For Advising SaaS Start-ups](https://www.outseta.com/posts/customer-success-unit-economics-then-growth)
 
 ## Interviewing
 
