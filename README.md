@@ -22,6 +22,7 @@ My favorite articles and usefull resources.
 - [Robust Serverless Application Design with AWS Lambda Dead Letter Queues](https://aws.amazon.com/blogs/compute/robust-serverless-application-design-with-aws-lambda-dlq/)
 - [How to retry failed Kinesis events using AWS Lambda dead letter queues for SNS](https://read.acloud.guru/use-sns-to-retry-failed-kinesis-events-36e978782f05)
 - [Become a Serverless Black Belt](https://www.youtube.com/watch?v=oQFORsso2go)
+- [Lessons from building a Serverless Data Pipeline with AWS Kinesis and Lambda](https://read.iopipe.com/lessons-from-building-a-serverless-data-pipeline-with-aws-kinesis-and-lambda-4d8cf0ebcbc9)
 
 ## Distributed Systems
 
@@ -173,6 +174,7 @@ My favorite articles and usefull resources.
 - [Kubernetes deployment strategies](https://container-solutions.com/kubernetes-deployment-strategies/)
 - [Kubernetes Canary deployments 🐤 for mere mortals](https://blog.dockbit.com/kubernetes-canary-deployments-for-mere-mortals-6696910a52b2)
 - [Kubernetes graceful shutdown example](https://github.com/RisingStack/kubernetes-graceful-shutdown-example)
+- [Docker Commands — The Ultimate Cheat Sheet](https://hackernoon.com/docker-commands-the-ultimate-cheat-sheet-994ac78e2888)
 
 ## Service Mesh
 
