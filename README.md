@@ -215,6 +215,7 @@ My favorite articles and usefull resources.
 - [How Do You Measure Leadership?](https://blog.ycombinator.com/how-do-you-measure-leadership/)
 - [8 Mistakes we made in our Company’s First 8 Years](https://hackernoon.com/8-mistakes-we-made-in-our-companys-first-8-years-3d38422333b?token=K7CIiNTNmZUkOP-9)
 - [Customer Success. Unit Economics. Then Growth. What I Like About Mark Roberge's Framework For Advising SaaS Start-ups](https://www.outseta.com/posts/customer-success-unit-economics-then-growth)
+- [All Things Sales! 16 Mini-Lessons for Startup Founders](https://a16z.com/2018/09/02/sales-startups-technical-founders/)
 
 ## Interviewing
 
