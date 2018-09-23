@@ -23,6 +23,7 @@ My favorite articles and usefull resources.
 - [How to retry failed Kinesis events using AWS Lambda dead letter queues for SNS](https://read.acloud.guru/use-sns-to-retry-failed-kinesis-events-36e978782f05)
 - [Become a Serverless Black Belt](https://www.youtube.com/watch?v=oQFORsso2go)
 - [Lessons from building a Serverless Data Pipeline with AWS Kinesis and Lambda](https://read.iopipe.com/lessons-from-building-a-serverless-data-pipeline-with-aws-kinesis-and-lambda-4d8cf0ebcbc9)
+- [The Evolution of Business Logic from Monoliths to Microservices to Functions](https://acloud.guru/series/serverlessconf-sf-2018/view/34ecad72-c0cc-252c-2a5c-606784bf67cf)
 
 ## Distributed Systems
 
@@ -35,6 +36,7 @@ My favorite articles and usefull resources.
 - [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
 - [There is no now](https://queue.acm.org/detail.cfm?id=2745385)
 - [You Cannot Have Exactly-Once Delivery](https://queue.acm.org/detail.cfm?id=2745385)
+- [Why are distributed systems so hard](https://drive.google.com/file/d/15nxAaVXZwNFnJNVvgtKonNbzxNgTUCxP/view)
 
 ## Architecture & Design
 
@@ -216,6 +218,8 @@ My favorite articles and usefull resources.
 - [8 Mistakes we made in our Company’s First 8 Years](https://hackernoon.com/8-mistakes-we-made-in-our-companys-first-8-years-3d38422333b?token=K7CIiNTNmZUkOP-9)
 - [Customer Success. Unit Economics. Then Growth. What I Like About Mark Roberge's Framework For Advising SaaS Start-ups](https://www.outseta.com/posts/customer-success-unit-economics-then-growth)
 - [All Things Sales! 16 Mini-Lessons for Startup Founders](https://a16z.com/2018/09/02/sales-startups-technical-founders/)
+- [So you want to build a brand](https://www.intercom.com/blog/so-you-want-to-build-a-brand/)
+- [The sunk cost fallacy](http://www.bbc.com/capital/story/20180914-the-trick-to-learning-when-to-cut-your-losses)
 
 ## Interviewing
 
@@ -330,3 +334,7 @@ My favorite articles and usefull resources.
 ## Haskell
 
 - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
+
+# UX
+
+- [The ultimate guide to proper use of animation in UX](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
