@@ -220,6 +220,8 @@ My favorite articles and usefull resources.
 - [All Things Sales! 16 Mini-Lessons for Startup Founders](https://a16z.com/2018/09/02/sales-startups-technical-founders/)
 - [So you want to build a brand](https://www.intercom.com/blog/so-you-want-to-build-a-brand/)
 - [The sunk cost fallacy](http://www.bbc.com/capital/story/20180914-the-trick-to-learning-when-to-cut-your-losses)
+- [Crazy at the wheel](https://www.theguardian.com/technology/2017/mar/15/silicon-valley-psychopath-ceo-sxsw-panel)
+- [Design Thinking Handbook](https://www.designbetter.co/design-thinking)
 
 ## Interviewing
 
@@ -227,6 +229,7 @@ My favorite articles and usefull resources.
 - [Do I Want To Work In This Company, or What Questions To Ask On An Interview](https://dev.to/ice_lenor/do-i-want-to-work-in-this-company-or-what-questions-to-ask-on-an-interview-7po)
 - [Ten Rules for Negotiating a Job Offer](https://medium.freecodecamp.org/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6)
 - [How to Talk About Yourself in an Interview](https://stackoverflow.blog/2017/04/27/how-to-talk-about-yourself-in-an-interview/)
+- [The Developer Cover Letter](https://stackoverflow.blog/2016/11/11/developer-cover-letter/)
 
 ## Reactive & Functional Programming
 
