@@ -16,13 +16,13 @@ My favorite articles and usefull resources:
 - [Service Mesh](#service-mesh)
 - [Git](#git)
 - [Product, Culture & Leadership](#product-culture--leadership)
+- [UX](#ux)
 - [Inertviewing](#interviewing)
 - [Reactive & Functional Programming](#reactive--functional-programming)
 - [GraphQL](#graphql)
 - [Node.js & JavaScript](#nodejs--javascript)
 - [Go](#go)
 - [Haskell](#haskell)
-- [UX](#ux)
 
 ## Serverless
 
@@ -245,6 +245,10 @@ My favorite articles and usefull resources:
 - [Crazy at the wheel](https://www.theguardian.com/technology/2017/mar/15/silicon-valley-psychopath-ceo-sxsw-panel)
 - [Design Thinking Handbook](https://www.designbetter.co/design-thinking)
 
+# UX
+
+- [The ultimate guide to proper use of animation in UX](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
+
 ## Interviewing
 
 - [Top 10 System Design Interview Questions for Software Engineers](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444)
@@ -359,7 +363,3 @@ My favorite articles and usefull resources:
 ## Haskell
 
 - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
-
-# UX
-
-- [The ultimate guide to proper use of animation in UX](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
