@@ -1,6 +1,28 @@
 # Reading List
 
-My favorite articles and usefull resources.
+My favorite articles and usefull resources:
+
+- [Serverless](#serverless)
+- [Distributed Systems](#distributed-systems)
+- [Architecture & Design](#architecture--design)
+- [Event Driven & Event Sourced Architectures](#event-driven--event-sourced-architecture)
+- [Microservices](#microservices)
+- [CS & Engineering](#cs--engineering)
+- [Algortithms](#algorithms)
+- [Databases](#databases)
+- [Search](#search)
+- [DevOps](#devops)
+- [Docker & Kubernetes](#docker--kubernetes)
+- [Service Mesh](#service-mesh)
+- [Git](#git)
+- [Product, Culture & Leadership](#product-culture--leadership)
+- [Inertviewing](#interviewing)
+- [Reactive & Functional Programming](#reactive--functional-programming)
+- [GraphQL](#graphql)
+- [Node.js & JavaScript](#nodejs--javascript)
+- [Go](#go)
+- [Haskell](#haskell)
+- [UX](#ux)
 
 ## Serverless
 
@@ -260,7 +282,7 @@ My favorite articles and usefull resources.
 - [GraphQL schema stitching](https://blog.apollographql.com/graphql-schema-stitching-8af23354ac37)
 - [Tutorial: How to build a GraphQL server](https://blog.apollographql.com/tutorial-building-a-graphql-server-cddaa023c035)
 
-## NodeJS & JavaScript
+## Node.js & JavaScript
 
 - [Designing very large (JavaScript) applications](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3)
 - [A guide to JavaScript Regular Expressions](https://flaviocopes.com/javascript-regular-expressions/)
