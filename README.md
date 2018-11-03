@@ -125,6 +125,7 @@ My favorite articles and usefull resources:
 - [What are Bloom filters?](https://blog.medium.com/what-are-bloom-filters-1ec2a50c68ff)
 - [Demystifying the PageRank Algorithm](https://dev.to/sishaarrao/demystifying-the-pagerank-algorithm)
 - [Introduction to A\*](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
+- [Understanding bcrypt](https://auth0.com/blog/hashing-in-action-understanding-bcrypt/)
 
 ## Databases
 
@@ -230,7 +231,7 @@ My favorite articles and usefull resources:
 - [How To Sell The Problem Before Selling The Solution](https://medium.com/swlh/how-to-perfectly-capture-your-customers-need-c924e3209484)
 - [12 Signs You’re Working in a Feature Factory](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2)
 - [Keep Features Off Your Roadmap](https://hackernoon.com/keep-features-off-your-roadmap-b14543340881)
-- [WHAT MAKES A GREAT PRODUCT MANAGER](https://hackernoon.com/what-makes-a-great-product-manager-3c1d03b90356)
+- [What makes a great product manager](https://hackernoon.com/what-makes-a-great-product-manager-3c1d03b90356)
 - [Questions to ask when hiring a product designer for a startup](https://medium.freecodecamp.org/questions-to-ask-when-hiring-a-product-designer-for-a-startup-da58a3ca0a71)
 - [Originality is Overrated: The Case for Copying Business Ideas](https://clearfounder.com/originality-is-overrated-the-case-for-copying-business-ideas/)
 - [The ultimate guide to defining, writing, and implementing OKRs](https://hackernoon.com/the-ultimate-guide-to-defining-writing-and-implementing-okrs-3b2671e7b01a)
@@ -244,6 +245,14 @@ My favorite articles and usefull resources:
 - [The sunk cost fallacy](http://www.bbc.com/capital/story/20180914-the-trick-to-learning-when-to-cut-your-losses)
 - [Crazy at the wheel](https://www.theguardian.com/technology/2017/mar/15/silicon-valley-psychopath-ceo-sxsw-panel)
 - [Design Thinking Handbook](https://www.designbetter.co/design-thinking)
+- [Why you need a company mission](http://insideintercom.wpengine.com/videos/why-you-need-a-company-mission/)
+- [Why startups need a strong vision](https://www.intercom.com/blog/why-startups-need-a-strong-vision/)
+- [A great product starts with a great vision](https://www.intercom.com/blog/podcasts/a-great-product-starts-with-a-great-vision/)
+- [Product strategy means saying no](https://www.intercom.com/blog/product-strategy-means-saying-no/)
+- [The difference between a mission and vision](http://www.daviscos.com/the-difference-between-a-mission-vision-statement/)
+- [51 Mission Statement Examples from The World’s Best Companies
+  ](https://www.alessiobresciani.com/foresight-strategy/51-mission-statement-examples-from-the-worlds-best-companies/)
+- [Best Examples of Company Vision and Mission Statements](https://www.themarketingblender.com/vision-mission-statements/)
 
 # UX
 
