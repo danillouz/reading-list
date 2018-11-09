@@ -17,7 +17,7 @@ My favorite articles and usefull resources:
 - [Git](#git)
 - [Product, Culture & Leadership](#product-culture--leadership)
 - [UX](#ux)
-- [Inertviewing](#interviewing)
+- [Interviewing](#interviewing)
 - [Reactive & Functional Programming](#reactive--functional-programming)
 - [GraphQL](#graphql)
 - [Node.js & JavaScript](#nodejs--javascript)
