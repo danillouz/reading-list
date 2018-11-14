@@ -100,6 +100,7 @@ My favorite articles and usefull resources:
 - [Micro-monolith anti-pattern](http://chi.pl/2017/01/30/Micro-monolith-Anti-pattern.html)
 - [Six Challenges Every Organization Will Face Implementing Microservices](https://thenewstack.io/microservices-standardization-moving-monolith-microservices/)
 - [Making microservices more resilient with circuit breaking](https://blog.buoyant.io/2017/01/13/making-microservices-more-resilient-with-circuit-breaking/)
+- [Microservice Architecture at Medium](https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f)
 
 ## CS & Engineering
 
@@ -116,6 +117,7 @@ My favorite articles and usefull resources:
 - [Does your solution solve the right problem?](https://www.intercom.com/blog/does-your-solution-solve-the-right-problem/)
 - [Technical Decision Making](https://medium.com/@copyconstruct/technical-decision-making-9b2817c18da4)
 - [Grids and Graphs](https://www.redblobgames.com/pathfinding/grids/graphs.html)
+- [The forgotten history of OOP](https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f)
 
 ## Algorithms
 
