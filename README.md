@@ -333,8 +333,7 @@ My favorite articles and usefull resources:
 - [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 - [A Go Programmer's Guide to Syscalls](https://speakerdeck.com/lizrice/a-go-programmers-guide-to-syscalls)
 - [How To Use Go Interfaces](https://blog.chewxy.com/2018/03/18/golang-interfaces/)
-- [How to write Go middleware](https://kev.inburke.com/kevin/how-to-write-go-middleware/)
-- [Learn Go by writing tests: Structs, methods, interfaces & table driven tests ](https://dev.to/quii/learn-go-by-writing-tests-structs-methods-interfaces--table-driven-tests-1p01)
+- [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests)
 - [Multithreading in Go - A Tutorial](https://pragmacoders.com/multithreading-go-tutorial/)
 - [SOLID Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)
 - [Bit Hacking with Go](https://medium.com/learning-the-go-programming-language/bit-hacking-with-go-e0acee258827)
@@ -349,7 +348,6 @@ My favorite articles and usefull resources:
 - [Error handling in Go](https://scene-si.org/2017/11/13/error-handling-in-go/)
 - [Understanding Go panic output](https://joeshaw.org/understanding-go-panic-output/)
 - [Go best practices, six years in](http://peter.bourgon.org/go-best-practices-2016/)
-- [GoLang Dep: The Missing Manual](https://lightstep.com/blog/golang-dep/)
 - [Style guideline for Go packages](https://rakyll.org/style-packages/)
 - [Make your Go Binaries Homebrew Installable](https://kev.inburke.com/kevin/install-homebrew-go/)
 - [Writing a Kubernetes operator in Golang](https://medium.com/@mtreacher/writing-a-kubernetes-operator-a9b86f19bfb9)
@@ -366,11 +364,14 @@ My favorite articles and usefull resources:
 - [Clean code using decorators](https://www.bartfokker.nl/posts/decorators/)
 - [Go Cloud](https://github.com/google/go-cloud/tree/master/samples/tutorial)
 - [Serverless Framework example for Golang and Lambda](https://serverless.com/blog/framework-example-golang-lambda-support/)
-- [A DynamoDB-backed CRUDL example using Golang](https://serverless.com/blog/dynamodb-backend-crudl-example-using-golang/)
 - [Go's work-stealing scheduler](https://rakyll.org/scheduler/)
 - [The Go scheduler](https://morsmachine.dk/go-scheduler)
 - [Scheduling In Go - Part I](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html)
 - [Scheduler Tracing In Go](https://www.ardanlabs.com/blog/2015/02/scheduler-tracing-in-go.html)
+- [GopherCon EU 2018: Peter Bourgon - Best Practices for Industrial Programming](https://www.youtube.com/watch?v=PTE4VJIdHPg)
+- [GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps](https://www.youtube.com/watch?v=oL6JBUk6tj0)
+- [Ashley McNamara + Brian Ketelsen. Go best practices.](https://www.youtube.com/watch?v=MzTcsI6tn-0)
+- [Standard package layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
 
 ## Haskell
 
