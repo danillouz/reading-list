@@ -70,6 +70,7 @@ My favorite articles and usefull resources:
 - [Painless Functional Specifications – Part 2: What’s a Spec?](https://www.joelonsoftware.com/2000/10/03/painless-functional-specifications-part-2-whats-a-spec/)
 - [Design docs - A design doc](https://medium.com/@cramforce/design-docs-a-design-doc-a152f4484c6b)
 - [The role, skills, and duties of a software architect](https://dev.to/iriskatastic/the-role-skills-and-duties-of-a-software-architect-413)
+- [Hexagonal Architecture](https://fideloper.com/hexagonal-architecture)
 
 ## Event Driven & Event Sourced Architecture
 
