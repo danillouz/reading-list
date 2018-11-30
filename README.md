@@ -373,6 +373,9 @@ My favorite articles and usefull resources:
 - [GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps](https://www.youtube.com/watch?v=oL6JBUk6tj0)
 - [Ashley McNamara + Brian Ketelsen. Go best practices.](https://www.youtube.com/watch?v=MzTcsI6tn-0)
 - [Standard package layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
+- [How I write Go HTTP services after seven years](https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831)
+- [Intro to Go modules](https://www.youtube.com/watch?v=aeF3l-zmPsY)
+- [Advanced testing with Go](https://www.youtube.com/watch?v=yszygk1cpEc)
 
 ## Haskell
 
