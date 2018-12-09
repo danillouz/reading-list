@@ -23,6 +23,7 @@ My favorite articles and usefull resources:
 - [Node.js & JavaScript](#nodejs--javascript)
 - [Go](#go)
 - [Haskell](#haskell)
+- [Misc](#misc)
 
 ## Serverless
 
@@ -380,3 +381,9 @@ My favorite articles and usefull resources:
 ## Haskell
 
 - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
+
+## Misc
+
+- [5 whys](https://open.buffer.com/5-whys-process/)
+- [How To Rewire Your Brain for Positivity and Happiness](https://blog.bufferapp.com/how-to-rewire-your-brains-for-positivity-and-happiness)
+- [The Mindfulness Guide for the Super Busy: How to Live Life to the Fullest](https://zenhabits.net/the-mindfulness-guide-for-the-super-busy-how-to-live-life-to-the-fullest/)
