@@ -258,6 +258,7 @@ My favorite articles and usefull resources:
   ](https://www.alessiobresciani.com/foresight-strategy/51-mission-statement-examples-from-the-worlds-best-companies/)
 - [Best Examples of Company Vision and Mission Statements](https://www.themarketingblender.com/vision-mission-statements/)
 - [The myths of product market fit](https://www.intercom.com/blog/podcasts/the-myths-of-product-market-fit)
+- [Start with a cupcake](https://www.intercom.com/blog/start-with-a-cupcake/)
 
 # UX
 
