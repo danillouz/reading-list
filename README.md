@@ -378,6 +378,7 @@ My favorite articles and usefull resources:
 - [How I write Go HTTP services after seven years](https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831)
 - [Intro to Go modules](https://www.youtube.com/watch?v=aeF3l-zmPsY)
 - [Advanced testing with Go](https://www.youtube.com/watch?v=yszygk1cpEc)
+- [Package Multiple Packages](https://ieftimov.com/golang-package-multiple-binaries)
 
 ## Haskell
 
