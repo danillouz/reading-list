@@ -379,6 +379,7 @@ My favorite articles and usefull resources:
 - [Intro to Go modules](https://www.youtube.com/watch?v=aeF3l-zmPsY)
 - [Advanced testing with Go](https://www.youtube.com/watch?v=yszygk1cpEc)
 - [Package Multiple Packages](https://ieftimov.com/golang-package-multiple-binaries)
+- [IO Reader](https://medium.com/@matryer/golang-advent-calendar-day-seventeen-io-reader-in-depth-6f744bb4320b)
 
 ## Haskell
 
