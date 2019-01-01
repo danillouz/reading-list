@@ -72,6 +72,7 @@ My favorite articles and usefull resources:
 - [Design docs - A design doc](https://medium.com/@cramforce/design-docs-a-design-doc-a152f4484c6b)
 - [The role, skills, and duties of a software architect](https://dev.to/iriskatastic/the-role-skills-and-duties-of-a-software-architect-413)
 - [Hexagonal Architecture](https://fideloper.com/hexagonal-architecture)
+- [Effective Mental Models for Code and Systems](https://medium.com/@copyconstruct/effective-mental-models-for-code-and-systems-7c55918f1b3e)
 
 ## Event Driven & Event Sourced Architecture
 
