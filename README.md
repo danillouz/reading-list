@@ -174,6 +174,7 @@ My favorite articles and usefull resources:
 - [Feature Flags, Toggles, Controls](https://featureflags.io/)
 - [Node.js Performance Monitoring with Prometheus](https://blog.risingstack.com/node-js-performance-monitoring-with-prometheus/)
 - [How To Establish a High Severity Incident Management Program](https://www.gremlin.com/community/tutorials/how-to-establish-a-high-severity-incident-management-program/)
+- [Canary Analysis Lessons (Google and Waze)](https://cloud.google.com/blog/products/devops-sre/canary-analysis-lessons-learned-and-best-practices-from-google-and-waze)
 
 ## Docker & Kubernetes
 
@@ -260,6 +261,7 @@ My favorite articles and usefull resources:
 - [Best Examples of Company Vision and Mission Statements](https://www.themarketingblender.com/vision-mission-statements/)
 - [The myths of product market fit](https://www.intercom.com/blog/podcasts/the-myths-of-product-market-fit)
 - [Start with a cupcake](https://www.intercom.com/blog/start-with-a-cupcake/)
+- [Startup Playbook](https://playbook.samaltman.com/)
 
 # UX
 
@@ -291,16 +293,10 @@ My favorite articles and usefull resources:
 
 ## GraphQL
 
-- [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/?utm_medium=email&utm_source=reactnl&v1=)
+- [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
 - [Life of a GraphQL Query — Lexing/Parsing](https://medium.com/@cjoudrey/life-of-a-graphql-query-lexing-parsing-ca7c5045fad8)
-- [Tutorial: GraphQL subscriptions with Apollo Client](https://blog.apollographql.com/tutorial-graphql-subscriptions-client-side-40e185e4be76)
-- [Creating Query Components with Apollo](http://engineering.khanacademy.org/posts/creating-query-components-with-apollo.htm)
 - [Building a Github Client with React Apollo](https://www.graphql.college/building-a-github-client-with-react-apollo/)
-- [GraphQL Server Basics: GraphQL Schemas, TypeDefs & Resolvers Explained](https://www.prisma.io/blog/graphql-server-basics-the-schema-ac5e2950214e/)
-- [Loading Patterns in Apollo Client](https://www.okgrow.com/posts/loading-patterns-in-apollo-client)
-- [4 simple ways to call a GraphQL API](https://blog.apollographql.com/4-simple-ways-to-call-a-graphql-api-a6807bcdb355)
-- [GraphQL schema stitching](https://blog.apollographql.com/graphql-schema-stitching-8af23354ac37)
-- [Tutorial: How to build a GraphQL server](https://blog.apollographql.com/tutorial-building-a-graphql-server-cddaa023c035)
+- [GraphQL Stack](https://www.graphqlstack.com/)
 
 ## Node.js & JavaScript
 
