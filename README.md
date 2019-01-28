@@ -175,6 +175,7 @@ My favorite articles and usefull resources:
 - [Node.js Performance Monitoring with Prometheus](https://blog.risingstack.com/node-js-performance-monitoring-with-prometheus/)
 - [How To Establish a High Severity Incident Management Program](https://www.gremlin.com/community/tutorials/how-to-establish-a-high-severity-incident-management-program/)
 - [Canary Analysis Lessons (Google and Waze)](https://cloud.google.com/blog/products/devops-sre/canary-analysis-lessons-learned-and-best-practices-from-google-and-waze)
+- [The life of a GitHub Action](https://blog.jessfraz.com/post/the-life-of-a-github-action/)
 
 ## Docker & Kubernetes
 
