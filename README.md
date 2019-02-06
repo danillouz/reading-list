@@ -16,7 +16,7 @@ My favorite articles and usefull resources:
 - [Service Mesh](#service-mesh)
 - [Git](#git)
 - [Product, Culture & Leadership](#product-culture--leadership)
-- [UX](#ux)
+- [Design & UX](#design--ux)
 - [Interviewing](#interviewing)
 - [Reactive & Functional Programming](#reactive--functional-programming)
 - [GraphQL](#graphql)
@@ -264,8 +264,9 @@ My favorite articles and usefull resources:
 - [Start with a cupcake](https://www.intercom.com/blog/start-with-a-cupcake/)
 - [Startup Playbook](https://playbook.samaltman.com/)
 
-# UX
+# Design & UX
 
+- [Bret Victor - Inventing on Principle](https://vimeo.com/36579366)
 - [The ultimate guide to proper use of animation in UX](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
 
 ## Interviewing
