@@ -47,6 +47,7 @@ My favorite articles and usefull resources:
 - [Become a Serverless Black Belt](https://www.youtube.com/watch?v=oQFORsso2go)
 - [Lessons from building a Serverless Data Pipeline with AWS Kinesis and Lambda](https://read.iopipe.com/lessons-from-building-a-serverless-data-pipeline-with-aws-kinesis-and-lambda-4d8cf0ebcbc9)
 - [The Evolution of Business Logic from Monoliths to Microservices to Functions](https://acloud.guru/series/serverlessconf-sf-2018/view/34ecad72-c0cc-252c-2a5c-606784bf67cf)
+- [Cloud Computing Without Containers](https://blog.cloudflare.com/cloud-computing-without-containers/)
 
 ## Distributed Systems
 
