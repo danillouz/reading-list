@@ -48,6 +48,7 @@ My favorite articles and usefull resources:
 - [Lessons from building a Serverless Data Pipeline with AWS Kinesis and Lambda](https://read.iopipe.com/lessons-from-building-a-serverless-data-pipeline-with-aws-kinesis-and-lambda-4d8cf0ebcbc9)
 - [The Evolution of Business Logic from Monoliths to Microservices to Functions](https://acloud.guru/series/serverlessconf-sf-2018/view/34ecad72-c0cc-252c-2a5c-606784bf67cf)
 - [Cloud Computing Without Containers](https://blog.cloudflare.com/cloud-computing-without-containers/)
+- [Lambda Optimization HTTP Keep Alive](https://medium.com/theburningmonk-com/lambda-optimization-tip-enable-http-keep-alive-5c55810f70fe)
 
 ## Distributed Systems
 
