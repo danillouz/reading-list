@@ -382,6 +382,7 @@ My favorite articles and usefull resources:
 - [Package Multiple Packages](https://ieftimov.com/golang-package-multiple-binaries)
 - [IO Reader](https://medium.com/@matryer/golang-advent-calendar-day-seventeen-io-reader-in-depth-6f744bb4320b)
 - [Building Web Servers](https://getgophish.com/blog/post/2018-12-02-building-web-servers-in-go/)
+- [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html#_comments)
 
 ## Haskell
 
